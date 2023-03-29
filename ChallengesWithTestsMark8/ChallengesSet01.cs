@@ -56,6 +56,7 @@ namespace ChallengesWithTestsMark8
         public string GetHey()
         {
             return "HEY!";
+
         }
     }
 }
