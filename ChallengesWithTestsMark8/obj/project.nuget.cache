@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "5gxZcuDIHu8Lp/JnmnNZeE3ZxeLvvRm6N9eU+Z+5RveaExIWJ/s9Nuy6vmjImgPLJC4DQ7Cqkfara6MtZgvoBw==",
+  "dgSpecHash": "4zzO5EdaNglNxXcgLdQIBD2E45IiXijVehS7zi6EMtElkfgki4EqCQ++0PshXj5NewsviYk1iBMnl6lXrSyYbQ==",
   "success": true,
-  "projectFilePath": "/Users/michaeldoyle/repos/mark18/repos/WeeklyChallenges/ChallengesWithTestsMark8/ChallengesWithTestsMark8.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/Users/tadiyabrown/Desktop/repo/WeeklyChallenges/ChallengesWithTestsMark8/ChallengesWithTestsMark8.csproj",
+  "expectedPackageFiles": [
+    "/Users/tadiyabrown/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/tadiyabrown/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.32/microsoft.netcore.app.host.osx-x64.3.1.32.nupkg.sha512",
+    "/Users/tadiyabrown/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
   "logs": []
 }
