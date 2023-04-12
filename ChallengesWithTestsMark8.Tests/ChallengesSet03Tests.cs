@@ -222,7 +222,10 @@ namespace ChallengesWithTestsMark8.Tests
             ChallengesSet03 challenger = new ChallengesSet03();
 
             // Act
-            challenger.ChangeAllElementsToUppercase(values);
+            challenger.ChangeAllElementsToUppercase(values,
+
+            // Act
+            challenger.GetArray());
 
             // Assert
             Assert.Equal(values.Length, expected.Length);
