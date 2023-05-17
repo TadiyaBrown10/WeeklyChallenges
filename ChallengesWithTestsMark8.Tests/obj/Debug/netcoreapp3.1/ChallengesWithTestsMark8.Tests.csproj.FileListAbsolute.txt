@@ -1,3 +1,8 @@
+/Users/tadiyabrown/repos/WeeklyChallenges/ChallengesWithTestsMark8.Tests/obj/Debug/netcoreapp3.1/ChallengesWithTestsMark8.Tests.csproj.AssemblyReference.cache
+/Users/tadiyabrown/repos/WeeklyChallenges/ChallengesWithTestsMark8.Tests/obj/Debug/netcoreapp3.1/ChallengesWithTestsMark8.Tests.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tadiyabrown/repos/WeeklyChallenges/ChallengesWithTestsMark8.Tests/obj/Debug/netcoreapp3.1/ChallengesWithTestsMark8.Tests.AssemblyInfoInputs.cache
+/Users/tadiyabrown/repos/WeeklyChallenges/ChallengesWithTestsMark8.Tests/obj/Debug/netcoreapp3.1/ChallengesWithTestsMark8.Tests.AssemblyInfo.cs
+/Users/tadiyabrown/repos/WeeklyChallenges/ChallengesWithTestsMark8.Tests/obj/Debug/netcoreapp3.1/ChallengesWithTestsMark8.Tests.csproj.CoreCompileInputs.cache
 /Users/tadiyabrown/repos/WeeklyChallenges/ChallengesWithTestsMark8.Tests/bin/Debug/netcoreapp3.1/ChallengesWithTestsMark8.deps.json
 /Users/tadiyabrown/repos/WeeklyChallenges/ChallengesWithTestsMark8.Tests/bin/Debug/netcoreapp3.1/ChallengesWithTestsMark8.runtimeconfig.json
 /Users/tadiyabrown/repos/WeeklyChallenges/ChallengesWithTestsMark8.Tests/bin/Debug/netcoreapp3.1/ChallengesWithTestsMark8.runtimeconfig.dev.json
@@ -93,11 +98,6 @@
 /Users/tadiyabrown/repos/WeeklyChallenges/ChallengesWithTestsMark8.Tests/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
 /Users/tadiyabrown/repos/WeeklyChallenges/ChallengesWithTestsMark8.Tests/bin/Debug/netcoreapp3.1/ChallengesWithTestsMark8.dll
 /Users/tadiyabrown/repos/WeeklyChallenges/ChallengesWithTestsMark8.Tests/bin/Debug/netcoreapp3.1/ChallengesWithTestsMark8.pdb
-/Users/tadiyabrown/repos/WeeklyChallenges/ChallengesWithTestsMark8.Tests/obj/Debug/netcoreapp3.1/ChallengesWithTestsMark8.Tests.csproj.AssemblyReference.cache
-/Users/tadiyabrown/repos/WeeklyChallenges/ChallengesWithTestsMark8.Tests/obj/Debug/netcoreapp3.1/ChallengesWithTestsMark8.Tests.GeneratedMSBuildEditorConfig.editorconfig
-/Users/tadiyabrown/repos/WeeklyChallenges/ChallengesWithTestsMark8.Tests/obj/Debug/netcoreapp3.1/ChallengesWithTestsMark8.Tests.AssemblyInfoInputs.cache
-/Users/tadiyabrown/repos/WeeklyChallenges/ChallengesWithTestsMark8.Tests/obj/Debug/netcoreapp3.1/ChallengesWithTestsMark8.Tests.AssemblyInfo.cs
-/Users/tadiyabrown/repos/WeeklyChallenges/ChallengesWithTestsMark8.Tests/obj/Debug/netcoreapp3.1/ChallengesWithTestsMark8.Tests.csproj.CoreCompileInputs.cache
 /Users/tadiyabrown/repos/WeeklyChallenges/ChallengesWithTestsMark8.Tests/obj/Debug/netcoreapp3.1/ChallengesWithTestsMark8.Tests.csproj.CopyComplete
 /Users/tadiyabrown/repos/WeeklyChallenges/ChallengesWithTestsMark8.Tests/obj/Debug/netcoreapp3.1/ChallengesWithTestsMark8.Tests.dll
 /Users/tadiyabrown/repos/WeeklyChallenges/ChallengesWithTestsMark8.Tests/obj/Debug/netcoreapp3.1/ChallengesWithTestsMark8.Tests.pdb

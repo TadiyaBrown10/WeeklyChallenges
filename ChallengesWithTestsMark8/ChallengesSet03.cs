@@ -14,11 +14,9 @@ namespace ChallengesWithTestsMark8
                 {
                     return true;
                 }
-                else
-                {
-                    return false;
-                }
-            }return false;
+                
+            }
+            return false;
 
 
         }
@@ -109,12 +107,23 @@ namespace ChallengesWithTestsMark8
             return list.ToArray();
         }
 
-        public void ChangeAllElementsToUppercase(string[] words)
+        public void ChangeAllElementsToUppercase(string[] words, object v)
         {
             for(int i = 0; i < words.Length; i++)
             {
-                words[i] = words[i].ToUpper();
+                string j = words[i].ToUpper();
+                words[i] = (string)v;
             }
+        }
+
+        public object GetArray()
+        {
+            throw new NotImplementedException();
+        }
+
+        public bool ArrayContainsAFalse(bool[] values, object i)
+        {
+            throw new NotImplementedException();
         }
     }
 }

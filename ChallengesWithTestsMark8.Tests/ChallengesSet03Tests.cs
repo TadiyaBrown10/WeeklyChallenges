@@ -6,6 +6,8 @@ namespace ChallengesWithTestsMark8.Tests
 {
     public class ChallengesSet03Tests
     {
+        private object i;
+
         [Theory]
         [InlineData(new bool[] { true, true, true, true }, false)]
         [InlineData(new bool[] { true, true, true }, false)]
@@ -28,7 +30,7 @@ namespace ChallengesWithTestsMark8.Tests
             ChallengesSet03 challenger = new ChallengesSet03();
 
             // Act
-            bool actual = challenger.ArrayContainsAFalse(values);
+            bool actual = challenger.ArrayContainsAFalse(values, i);
 
             // Assert
             Assert.Equal(expected, actual);
